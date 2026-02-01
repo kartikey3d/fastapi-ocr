@@ -152,16 +152,6 @@ If you get an error that Tesseract is not found, make sure:
 ### File upload errors
 Ensure the uploaded file is a valid image format (PNG, JPG, JPEG, etc.)
 
-## Future Enhancements
-
-- [ ] Support for multiple languages
-- [ ] PDF text extraction
-- [ ] Batch image processing
-- [ ] Image preprocessing options
-- [ ] Docker containerization
-- [ ] Rate limiting
-- [ ] Authentication
-
 ## Contact
 
 For questions or support, please open an issue on GitHub.
